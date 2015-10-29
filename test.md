@@ -4,3 +4,5 @@ This is the second sentence.
 
 This test is getting boring.
 
+Emacs is the editor.
+
